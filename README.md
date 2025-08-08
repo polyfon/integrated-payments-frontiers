@@ -2,6 +2,8 @@
 
 The entirety of connected commerce relies on consumers to engage with physical product ID's (NFCs, QR codes) post purchase to engage consumers and activate digital ownership. The following shows a method of transferring ownership within the payment process, and uses Shopify for commerce, Privy for auth and wallet creation, ThirdWeb for minting, & Twilio for SMS notifications.
 
+The following code snippets are part of a monorepo with a embedded Shopify app and consumer app, but shows the key processes behind the order flow, and onchain integrations
+
 ## 🏗️ System Architecture
 
 ```
