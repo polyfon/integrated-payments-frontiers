@@ -1,6 +1,6 @@
-# 3FA MVP Hackathon: Checkout-to-Minting Flow
+# Integrated payments: Ownership Experience
 
-This document provides a focused overview of the core services responsible for the checkout-to-minting flow in the 3FA MVP project. It is intended for hackathon participants who need to quickly understand the key components of the system.
+The entirety of connected commerce relies on consumers to engage with physical product ID's (NFCs, QR codes) post purchase to engage consumers and activate digital ownership. The following shows a method of transferring ownership within the payment process, and uses Shopify for commerce, Privy for auth and wallet creation, ThirdWeb for minting, & Twilio for SMS notifications.
 
 ## 🏗️ System Architecture
 
